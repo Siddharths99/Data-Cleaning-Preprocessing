@@ -1,2 +1,2 @@
 # Data-Cleaning-Preprocessing
-Performed data cleaning and preprocessing on the Titanic dataset using pandas. Handled missing values, removed outliers, encoded categorical variables, and standardized features to prepare clean data for machine learning.
+This project focused on cleaning and preparing the Titanic dataset for machine learning. I removed the Cabin column due to too many missing values, filled missing Age and Embarked entries, and converted categorical data using one-hot encoding. I visualized and removed outliers, then scaled the numerical features to get everything ready for modeling.
